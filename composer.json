@@ -1,0 +1,13 @@
+{
+    "name": "sota1235/laravel-http-error-images",
+    "description": "Showing good images when application's exception occurs.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sota1235",
+            "email": "sota1235@gmail.com"
+        }
+    ],
+    "require": {}
+}
